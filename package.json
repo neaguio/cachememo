@@ -1,6 +1,6 @@
 {
     "name": "cachememo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This library provides two functions for optimizing function calls in JavaScript applications: memoize and cache.",
     "main": "./dist/cjs/index.js",
     "module": "./dist/esm/index.js",
